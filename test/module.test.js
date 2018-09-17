@@ -1,11 +1,8 @@
 const { Nuxt, Builder } = require('nuxt');
-const jsdom = require('jsdom');
 const request = require('request-promise-native');
 
 const config = require('./fixture/nuxt.config');
 
-const { JSDOM } = jsdom;
-// const getDom = html => (new JSDOM(html)).window.document;
 const url = path => `http://localhost:3000${path}`;
 const get = path => request(url(path));
 
