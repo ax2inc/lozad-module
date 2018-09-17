@@ -19,8 +19,8 @@ Integrate [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) with your Nuxt pr
 - Install the module with your favorite package manager.
 
 ```sh
-yarn add lozad-module
-# Or npm i lozad-module
+yarn add @ax2/lozad-module
+# Or npm i @ax2/lozad-module
 ```
 
 - Add `lozad-module` to `modules` section of `nuxt.config.js`.
@@ -30,7 +30,7 @@ yarn add lozad-module
 
 {
   modules: [
-    'lozad-module',
+    '@ax2/lozad-module',
  ],
 }
 ```
