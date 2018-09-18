@@ -1,6 +1,6 @@
 # lozad-module
-[![npm (scoped with tag)](https://img.shields.io/npm/v/lozad-module/latest.svg?style=flat-square)](https://npmjs.com/package/lozad-module)
-[![npm](https://img.shields.io/npm/dt/lozad-module.svg?style=flat-square)](https://npmjs.com/package/lozad-module)
+[![npm (scoped with tag)](https://img.shields.io/npm/v/@ax2/lozad-module/latest.svg?style=flat-square)](https://npmjs.com/package/@ax2/lozad-module)
+[![npm](https://img.shields.io/npm/dt/@ax2/lozad-module.svg?style=flat-square)](https://npmjs.com/package/@ax2/lozad-module)
 [![CircleCI](https://img.shields.io/circleci/project/github/ax2inc/lozad-module.svg?style=flat-square)](https://circleci.com/gh/ax2inc/lozad-module)
 [![Codecov](https://img.shields.io/codecov/c/github/ax2inc/lozad-module.svg?style=flat-square)](https://codecov.io/gh/ax2inc/lozad-module)
 [![Dependencies](https://david-dm.org/ax2inc/lozad-module/status.svg?style=flat-square)](https://david-dm.org/ax2inc/lozad-module)
